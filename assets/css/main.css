@@ -1,3 +1,7 @@
 body{
     background-color: yellowgreen;
 }
+.carousel-inner{
+    margin-top: 3rem;
+    width: 600px;
+}
